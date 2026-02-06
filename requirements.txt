@@ -1,0 +1,11 @@
+pandas
+requests
+pillow
+transformers
+numpy
+xgboost
+lightgbm
+scikit-learn
+tqdm
+sentence-transformers
+torch
